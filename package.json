@@ -1,0 +1,24 @@
+{
+  "name": "noise3d",
+  "version": "1.0.0",
+  "description": "3D Noise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BartVanBeurden/node-noise3d.git"
+  },
+  "keywords": [
+    "3D",
+    "Perlin",
+    "Noise"
+  ],
+  "author": "Bart Van Beurden",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/BartVanBeurden/node-noise3d/issues"
+  },
+  "homepage": "https://github.com/BartVanBeurden/node-noise3d#readme"
+}
